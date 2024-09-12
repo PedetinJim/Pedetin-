@@ -1,0 +1,51 @@
+SE_DAY-1-Assignment
+Software Engineering Day1 Assignment
+Part 1: Introduction to Software Engineering
+
+
+Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is the systematic application of engineering principles, methods amd tools to develop and maintain quality software systems.
+software engineering is important in the technology industry cause it enables the creation of software applications and systems that powers various aspects of life 
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+1. The development of programming language like Fortan 
+2. Establishment of Software Engineer as a discipline 
+3. the Adventure of structured program in 1970s
+
+List and briefly explain the phases of the Software Development Life Cycle.
+-Requirement
+- Design : Design what tyoe of product you want 
+- Implementation: you implement and come up with good solutions if there is a problem 
+- Testing: as a software engineer yo need to test if it working 
+- Deployment: Roll it out
+- Maintances : This has to do with you upgrading what you in design 
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall is the sequential approach with distinct phase. that is the Requirement, Design and Implementation phase . while for Agile, it focuses on the flexibility 
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+A Quality Assurance Engineer: ensure quality by designing and executing test plans 
+and a Project manager: Overseas the planning, execution amd delivery .
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+IDEs is the tools for writing, debugging and testing code. Example: Visual Studio 
+Version Control system : software tools for tracking change to source code: Example: Git.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Challenges: Technical Debt, Changing requirements.
+strategies for overcoming: effective communication, agile methodologies. 
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing: Testing individual modules of software.
+integration: testing interaction between component.
+System: testing the entire software system as a whole.
+Acceptance: testing the software against user requirement.
+
+Part 2: Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is act of creating, crafting questions or statement to get the best possible response from AI model.
+Prompt engineering helps to make questions clear and specific,so the AI understands exactly what you want.
+it helps to improves the interaction between human and AI .
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective
